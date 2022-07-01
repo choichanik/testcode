@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/okhttp-20120626.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="json-20140107" level="project" />
+    <orderEntry type="library" name="jersey-client-1.10-b02" level="project" />
+    <orderEntry type="library" name="jersey-core-1.10-b02" level="project" />
+    <orderEntry type="library" name="json-simple-1.1.1" level="project" />
+    <orderEntry type="library" name="okhttp-3.14.1" level="project" />
+    <orderEntry type="library" name="okio-1.17.2" level="project" />
+    <orderEntry type="library" name="client-combined-3.141.59" level="project" />
+    <orderEntry type="library" name="commons-exec-1.3" level="project" />
+    <orderEntry type="library" name="commons-compress-1.9" level="project" />
+    <orderEntry type="library" name="jxl-2.6" level="project" />
+    <orderEntry type="library" name="activation-1.1.1" level="project" />
+    <orderEntry type="library" name="commons-collections4-4.4" level="project" />
+    <orderEntry type="library" name="xmlbeans-3.0.2" level="project" />
+    <orderEntry type="library" name="commons-net-3.6" level="project" />
+    <orderEntry type="library" name="pdfbox-2.0.17" level="project" />
+    <orderEntry type="library" name="jna" level="project" />
+    <orderEntry type="library" name="jna-platform" level="project" />
+    <orderEntry type="library" name="commons-codec-1.6" level="project" />
+    <orderEntry type="library" name="jdom-1.1" level="project" />
+    <orderEntry type="library" name="jaxen-1.2.0" level="project" />
+  </component>
+</module>
